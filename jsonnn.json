@@ -1,72 +1,129 @@
 {
-  "ADS": {
 
-
-    "networkAd": "xx",
-   
-    "Banner_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "Interstitial_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "Native_facebook" : "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
-
-    "inter_max": "37c0fd7e2939a3be",
-    "max_banner": "13482be8f771efc7",
-    "Native_max": "76d87171404718ed",
-
-    "startapp_id": "139480955",
-
-    "show_cpa": false,
-    "cpa_image": "https://wordpresscdn.winzogames.com/prod/blog/wp-content/uploads/2022/01/31105343/Freefire-diamonds.jpg",
-    "cpa_url": "https://fr.uoldown.com/android/free-fire-hack-diamond-and-coins/download",
-    "cpa_button_text": "Get It Now!",
+ 
+  "applovin_banner_id": "xxxxxx",
+  "applovin_interstitial_id": "xxxxxx",
+  "applovin_native_id": "xxxxxx",
+  "applovin_rewarded_id": "xxxxxx",
+  "max": false,
   
-    
+  "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
+  
+  "startapp_id": "xxxxxxxx",
 
-    "Image_cpaLink" : "https://iili.io/HiJCjwl.png",
-    "LinkCpa": "https://www.google.com/",
-
-    "ImageUrl_banner": "https://iili.io/HiJCjwl.png",
-    "LinkCpa_banner": "https://www.google.com/",
-    "ImageUrl_banner1": "https://iili.io/HiJCjwl.png",
-    "LinkCpa_banner1": "https://www.google.com/",
-    "ImageUrl_banner2": "https://iili.io/HiJCjwl.png",
-    "LinkCpa_banner2": "https://www.google.com/",
-
-    "Image_exit": "https://i.ibb.co/xMSp8M1/INTRERTEST.jpg",
-    "link_exit": "https://www.google.com/",
-
-    "privacy" : "https://policies.google.com/privacy?hl=en-US",
-    "url_exit": "https://www.google.com/",
-    "url_bottom_coins": "https://www.google.com/",
-
-    "Text_tips1": "Welcome avaliador premiado golpe  APP",
-    "Text_tips2": "paga mesmo ",
-    "Text_tips3": "#avaliadordemarcas    ",
-    "Text_tips4": "#avaliadorpremiado",
-    "Text_tips5": "#avaliadordemarcasfunciona",
-    "Text_tips6": "#avaliadorpremiadofunciona",
-    "Text_tips7": "Avaliador Premiado é Golpe",
-    "Text_tips8": "Avaliador Premiado Paga",
-
-
-    "Text_title1": "sim, o Avaliador Premiado  é confiável",
-    "Text_title2": "avaliador premiado,app avaliador premiado,avaliador premiado app",
-    "Text_title3": " a avaliador premiado ",
-    "Text_title4": "APLICATIVO AVALIADOR PREMIADO PAGA MESMO ? ",
-    "Text_title5": "valiador premiado é seguro ?",
-    "Text_title6": "valiador premiado,app avaliador premiado",
-    "Text_title7": "avaliador premiado app",
-    "Text_title8": "avaliador premiado app",
-
-
-    "Text_buttonCoins" : "Male ",
-    "Text_buttonTips" : "Women",
-    "Text_buttonmoins" : "- 18",
-    "Text_buttonplus" : "+ 18",
+  "Interstitial": "xxxxxxxx",
+  "Banner": "xxxxxxxx",
+  "Native": "xxx",
+  "Rewarded": "xxxxxxxx",
+  
+  
+  "main_inter": true,
+  "os_inter": true,
+  "gender_inter": true,
+  "age_inter": true,
+  "setup_inter": true,
+  
+  "rate": false,
+  
+  "clicks_to_show_inter": 2,
+  "native_rate": 2,
+  
+   "show_cpa": false,
+  "cpa_image": "",
+  "cpa_url": "https://smrturl.co/863b5d2",
+  "cpa_button_text": "Get It Now!",
+  
+  "rating_exit_popup": true,
+  
+  "onesignal_id": "xxxxxxx",
+  
+  "app_suspended": false,
+  "suspended_title": "A new update for this app is available.",
+  "suspended_message": "Update this app because this version has some issues.",
+  "suspended_URL": "xxxx",
 
 
-    "CpaAds" : "false",
+  "guides": [
+	{
+	 "image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
 
-    "Click_inter": "0"
+	 "isWeb": false,
+	 "url": "xxxx",
 
-  }
+	 "isLocked": false,
+	 "id": 1
+
+	},
+	{
+	 "image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
+
+	 "isWeb": false,
+	 "url": "xxxx",
+	 
+	 "isLocked": false,
+	 "id": 2
+	 
+	},
+	{
+	 "image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
+
+	 "isWeb": false,
+	 "url": "xxxx",
+	 
+	 "isLocked": false,
+	 "id": 3
+
+	},
+	{
+	"image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
+
+	 "isWeb": false,
+	 "url": "xxxx",
+	 
+	 "isLocked": false,
+	 "id": 4
+
+	},
+	{
+	"image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
+
+	 "isWeb": false,
+	 "url": "xxxx",
+	 
+	 "isLocked": false,
+	 "id": 5
+
+	},
+	{
+	"image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
+
+	 "isWeb": false,
+	 "url": "xxxx",
+	 
+	 "isLocked": false,
+	 "id": 6
+
+	}
+  ]  
 }
